@@ -1,1 +1,1 @@
-# ColorsSquare
+# Magic board
